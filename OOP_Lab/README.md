@@ -14,11 +14,8 @@ numbers from user.( By C++ or Java )
 #### 7. Write a program to display student details using class.( By C++ or Java )
 #### 8. Write a program to calculate the volume of a sphere , cube and cylinder.( By C++ or Java )
 #### 9. Write a program to display the following pattern ( By C++ or Java )
- 1
- 1 1
-1 2 1
-1 3 3 1
-1 4 6 4 1
+ <img src="https://i.postimg.cc/TPXKxPdQ/Screenshot-2024-05-23-182815.png">
+
 #### 10. Write a program that takes marks in individual subjects from the user and calculate the GPA.
 ( By C++ or Java )
 #### 11. Write a program that uses a constructor to initialize data members of a class representing a
