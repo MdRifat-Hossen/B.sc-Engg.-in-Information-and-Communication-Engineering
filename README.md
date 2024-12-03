@@ -25,7 +25,7 @@ This repository contains the detailed curriculum for the B.Sc. program in Inform
 | 7  | Math-1101   | Differential and Integral Calculus | 3.00    |
 | 8  | Hum-1101    | Bangladesh Studies                 | 3.00    |
 | 9  | ICE-1107    | Viva-voce                          | 0.75    |
-| **Total**        |                                     | **19.5**|
+| *Total Credits:*     |      |                               | *19.5*|
 
 ---
 
@@ -43,7 +43,7 @@ This repository contains the detailed curriculum for the B.Sc. program in Inform
 | 9  | Eng-1201    | Fundamental English                | 2.00    |
 | 10 | Eng-1202    | Fundamental English Sessional      | 1.00    |
 | 11 | ICE-1207    | Viva-voce                          | 0.75    |
-| **Total**        |                                     | **20.75**|
+| *Total Credits:*      |             |                        | *20.75*|
 
 ---
 
@@ -58,7 +58,26 @@ This repository contains the detailed curriculum for the B.Sc. program in Inform
 | 6  | ICE-2106    | Discrete Mathematics and Numerical Methods Sessional | 0.75 |
 | 7  | Stat-2101   | Elementary Statistics and Probability | 2.00 |
 | 8  | ICE-2107    | Viva-voce                          | 0.75    |
-| **Total**        |                                     | **19.25**|
+| *Total Credits:*    | |                                    | *19.25*|
+
+
+### 2nd Year 2nd Semester  
+| SL | Course Code | Title                                 | Credits |
+|----|-------------|---------------------------------------|---------|
+| 1  | ICE-2201    | Data Structure and Algorithm          | 3.00    |
+| 2  | ICE-2202    | Data Structure and Algorithm Sessional | 0.75    |
+| 3  | ICE-2203    | Analog Communication                  | 3.00    |
+| 4  | CHEM-2201   | Chemistry                              | 2.00    |
+| 5  | ICE-2205    | Signals and Systems                    | 3.00    |
+| 6  | ICE-2206    | Signals and Systems Sessional          | 0.75    |
+| 7  | ECo-2201    | Economics                              | 3.00    |
+| 8  | Math-2101   | Vector, Matrix and Linear Algebra     | 3.00    |
+| 9  | Stat-2201   | Engineering Statistics                 | 2.00    |
+| 10 | Stat-2202   | Engineering Statistics Sessional       | 0.75    |
+| 11 | ICE-2208    | Viva-voce                              | 0.75    |
+| *Total Credits:*|   |                                     |*19.50*  |
+
+
 
 ---
 
@@ -76,7 +95,7 @@ This repository contains the detailed curriculum for the B.Sc. program in Inform
 | 9  | ICE-3109    | Digital Signal Processing                            | 3.00    |
 | 10 | ICE-3110    | Digital Signal Processing Sessional                  | 0.75    |
 | 11 | ICE-3111    | Viva-voce                                            | 0.75    |
-| **Total**        |                                                      | **19.50**|
+| *Total Credits:*    |    |                                                   | *19.50*|
 
 ---
 
@@ -95,7 +114,7 @@ This repository contains the detailed curriculum for the B.Sc. program in Inform
 | 10 | ICE-3210    | Antenna Engineering Sessional                        | 0.75    |
 | 11 | ICE-3211    | Project Design and Development                       | 1.50    |
 | 12 | ICE-3212    | Viva-voce                                            | 0.75    |
-| **Total**        |                                                      | **21.00**|
+| *Total Credits:*       |   |                                                   | *21.00*|
 
 ---
 
@@ -112,7 +131,7 @@ This repository contains the detailed curriculum for the B.Sc. program in Inform
 | 8  | ICE-4108    | Cryptography and Data Security Sessional             | 0.75    |
 | 9  | ICE-41xx    | Optional-I                                           | 3.00    |
 | 10 | ICE-4110    | Viva-voce                                            | 0.75    |
-| **Total**        |                                                      | **18.75**|
+| *Total Credits:*      |       |                                               | *18.75*|
 
 ---
 
@@ -130,30 +149,40 @@ This repository contains the detailed curriculum for the B.Sc. program in Inform
 | 9  | ICE-42xx    | Optional-III                                         | 3.00    |
 | 10 | ICE-4210    | Thesis                                               | 3.00    |
 | 11 | ICE-4211    | Viva-voce                                            | 0.75    |
-| **Total**        |                                                      | **21.75**|
-
+| *Total Credits:*|              |                                        | *21.75*|
 
 ---
 
-### 4th Year, Optional Courses  
-**Optional-I:**  
-- Advanced Computer Networks  
-- Management Information System  
-- E-Commerce and E-Governance  
-- Information Security and Cyber Laws  
+### 4th Year Optional Courses  
 
-**Optional-II:**  
-- Microwave and Fiber Optic Communication  
-- Computer Vision  
-- Natural Language Processing  
-- Design of VLSI Circuits and Systems  
+#### Optional-I  
+| SL | Course Code | Title                                | Credits |
+|----|-------------|--------------------------------------|---------|
+| 1  | ICE-4112    | Advanced Computer Networks           | 3.00    |
+| 2  | ICE-4113    | Management Information System        | 3.00    |
+| 3  | ICE-4114    | E-Commerce and E-Governance          | 3.00    |
+| 4  | ICE-4115    | Information Security and Cyber Laws  | 3.00    |
 
-**Optional-III:**  
-- Cloud Computing  
-- Radar and Satellite Communication  
-- Biomedical Engineering  
-- Mobile Computing  
-- Advanced Robotics  
+#### Optional-II  
+| SL | Course Code | Title                                | Credits |
+|----|-------------|--------------------------------------|---------|
+| 1  | ICE-4212    | Microwave and Fiber Optic Communication | 3.00    |
+| 2  | ICE-4213    | Microwave and Fiber Optic Communication Sessional | 0.75 |
+| 3  | ICE-4214    | Computer Vision                      | 3.00    |
+| 4  | ICE-4215    | Computer Vision Sessional            | 0.75    |
+| 5  | ICE-4216    | Natural Language Processing          | 3.00    |
+| 6  | ICE-4217    | Natural Language Processing Sessional | 0.75   |
+| 7  | ICE-4218    | Design of VLSI Circuits and Systems  | 3.00    |
+| 8  | ICE-4219    | Design of VLSI Circuits and Systems Sessional | 0.75 |
+
+#### Optional-III  
+| SL | Course Code | Title                                | Credits |
+|----|-------------|--------------------------------------|---------|
+| 1  | ICE-4220    | Cloud Computing                      | 3.00    |
+| 2  | ICE-4221    | Radar and Satellite Communication    | 3.00    |
+| 3  | ICE-4222    | Biomedical Engineering               | 3.00    |
+| 4  | ICE-4223    | Mobile Computing                     | 3.00    |
+| 5  | ICE-4224    | Advanced Robotics                    | 3.00    |  
 
 ---
 
