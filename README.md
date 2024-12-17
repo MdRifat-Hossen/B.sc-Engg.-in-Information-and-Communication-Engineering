@@ -200,5 +200,5 @@ This repository contains the detailed curriculum for the B.Sc. program in Inform
 This curriculum is for students pursuing a degree in Information and Communication Engineering. Contributions to this repository include syllabus updates, lab manuals, assignments, and related educational content.  
 
 ### License  
-This repository is licensed under the MIT License. See the LICENSE file for more information.
+This repository is licensed under the <a href="https://github.com/MdRifat-Hossen/B.sc-Engg.-in-Information-and-Communication-Engineering-/blob/main/LICENSE">  MIT </a>License. See the LICENSE file for more information.
 
