@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"E:\ICE 3-1\Microcontroller and Computer Architecture\Lab\LAB-3 Dual digit\MyProject.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"E:\ICE 3-1\Microcontroller and Computer Architecture\Lab\LAB-3 Dual digit\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "DUal_digit.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	DUal_digit.c
+hint: 3	1163	Variable 'x' has been declared, but not used	DUal_digit.c
+hint: 3	1163	Variable 'y' has been declared, but not used	DUal_digit.c
+diagnostics: 27	123	Compiled Successfully	DUal_digit.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 16 (5%)  Free RAM (bytes): 336 (95%)	Used RAM (bytes): 16 (5%)  Free RAM (bytes): 336 (95%)
+hint: 0	1144	Used ROM (program words): 290 (4%)  Free ROM (program words): 7902 (96%)	Used ROM (program words): 290 (4%)  Free ROM (program words): 7902 (96%)
+diagnostics: 0	125	Project Linked Successfully	MyProject.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'MyProject.mcppi' completed: 218 ms	 
+diagnostics: 0	103	Finished successfully: 23 May 2025, 23:45:37	MyProject.mcppi

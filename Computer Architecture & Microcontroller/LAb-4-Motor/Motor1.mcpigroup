@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\Lab_3_Dual digit\MyProject.mcppi
+Project1=Motor1.mcppi
+[ActiveProject]
+Index=1
